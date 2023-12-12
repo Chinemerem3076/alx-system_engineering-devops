@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -n 10 | sort
+find . -type f | head -n 10
